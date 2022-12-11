@@ -1,0 +1,21 @@
+body {
+    font-family: fantasy;
+    font-size: 15px;
+    color: aliceblue;
+    background-image: url(https://images.unsplash.com/photo-1528041119984-da3a9f8d04d1?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2009&q=80);
+    position: absolute;
+    }
+
+.Resume
+{position: absolute; font-size: 18px; top: 1%; left: 90%; float: right; font-family: sans-serif}
+
+.title
+{position: absolute;
+top: 5px;
+left: 5px;
+right: 5px;
+height:100px;     
+}
+.main {position: absolute; top: 10%; width: 100%; left: 45%; color: lightpink; font-family: cursive; z-index: 1}
+.photo{position: absolute; top: 40%}
+.tableau {position: absolute;left: 25%; height: 500px;}
